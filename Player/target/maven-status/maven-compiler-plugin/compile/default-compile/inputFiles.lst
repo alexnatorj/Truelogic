@@ -1,0 +1,11 @@
+C:\Users\alexandre.monteiro\smartged\Player\src\main\java\br\com\truelogic\controller\PlayerController.java
+C:\Users\alexandre.monteiro\smartged\Player\src\main\java\br\com\truelogic\repository\PlayerRepository.java
+C:\Users\alexandre.monteiro\smartged\Player\src\main\java\br\com\truelogic\constants\PlayerConstant.java
+C:\Users\alexandre.monteiro\smartged\Player\src\main\java\br\com\truelogic\config\KafkaTopicConfig.java
+C:\Users\alexandre.monteiro\smartged\Player\src\main\java\br\com\truelogic\model\Player.java
+C:\Users\alexandre.monteiro\smartged\Player\src\main\java\br\com\truelogic\service\PlayerService.java
+C:\Users\alexandre.monteiro\smartged\Player\src\main\java\br\com\truelogic\config\KafkaProducerConfig.java
+C:\Users\alexandre.monteiro\smartged\Player\src\main\java\br\com\truelogic\dto\PlayerInputDTO.java
+C:\Users\alexandre.monteiro\smartged\Player\src\main\java\br\com\truelogic\dto\ResponseDTO.java
+C:\Users\alexandre.monteiro\smartged\Player\src\main\java\br\com\truelogic\PlayerApplication.java
+C:\Users\alexandre.monteiro\smartged\Player\src\main\java\br\com\truelogic\service\impl\PlayerServiceImpl.java

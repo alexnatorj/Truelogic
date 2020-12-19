@@ -1,0 +1,11 @@
+br\com\truelogic\service\PlayerService.class
+br\com\truelogic\model\Player.class
+br\com\truelogic\controller\PlayerController.class
+br\com\truelogic\PlayerApplication.class
+br\com\truelogic\repository\PlayerRepository.class
+br\com\truelogic\constants\PlayerConstant.class
+br\com\truelogic\dto\PlayerInputDTO.class
+br\com\truelogic\service\impl\PlayerServiceImpl.class
+br\com\truelogic\config\KafkaProducerConfig.class
+br\com\truelogic\dto\ResponseDTO.class
+br\com\truelogic\config\KafkaTopicConfig.class
