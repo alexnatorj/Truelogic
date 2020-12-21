@@ -31,7 +31,7 @@ public class Player implements Serializable {
 	private String name;
 	
 	@NotNull
-	@Column(name="razao_social", nullable = false)
+	@Column(name="type", nullable = false)
 	private String type;
 
 	public Integer getIdPlayer() {
